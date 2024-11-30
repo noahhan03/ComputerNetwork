@@ -1,0 +1,40 @@
+{
+    "destinations": [
+        {
+            "name": "Hawaii",
+            "type": "beach",
+            "description": "A beautiful tropical destination with sandy beaches and clear waters.",
+            "image": "pictures//hawaii.jpg"
+        },
+        {
+            "name": "Swiss Alps",
+            "type": "mountains",
+            "description": "A scenic mountainous region perfect for skiing and snowboarding.",
+            "image": "pictures//swissAlps.jpg"
+        },
+        {
+            "name": "Paris",
+            "type": "city",
+            "description": "The romantic city of lights, home to the Eiffel Tower and exquisite cuisine.",
+            "image": "pictures//paris.jpg"
+        },
+        {
+            "name": "Maldives",
+            "type": "beach",
+            "description": "A tropical paradise with crystal clear waters and beautiful coral reefs.",
+            "image": "pictures//maldives.jpg"
+        },
+        {
+            "name": "Rocky Mountains",
+            "type": "mountains",
+            "description": "A stunning mountain range offering breathtaking views and hiking trails.",
+            "image": "pictures//rockyMountains.jpg"
+        },
+        {
+            "name": "New York",
+            "type": "city",
+            "description": "A bustling metropolis known for its skyscrapers, Broadway shows, and diverse culture.",
+            "image": "pictures//newYork.jpg"
+        }
+    ]
+}
